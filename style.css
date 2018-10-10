@@ -471,8 +471,10 @@ footer nav a {
   }
   .arrow img {
     width: 10vw;
-    bottom: 50px;
-    left: 35vw;
+    position: absolute;
+    bottom: 15px;
+    left: 120px;
+    margin: 0;
   }
   .contact {
     display: inline;
